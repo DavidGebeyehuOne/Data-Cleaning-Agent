@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+pyarrow
+fastparquet
+great_expectations
+openai
+python-dotenv
+flask
+flask-cors
