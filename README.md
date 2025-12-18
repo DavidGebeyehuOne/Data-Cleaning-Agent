@@ -1,4 +1,4 @@
-# Antigravity Data Cleaning Agent
+# Data Cleaning Agent
 
 A Next.js based Data Cleaning Agent that uses Python (Pandas) and LLMs (OpenAI) to profile, plan, and clean datasets.
 
